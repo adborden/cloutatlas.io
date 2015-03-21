@@ -12,3 +12,7 @@ github_username:  sfbrigade
 
 # Build settings
 markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - ruby_gems
