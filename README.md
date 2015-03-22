@@ -22,6 +22,6 @@ serve a local version of the website in order to preview your posts.
 ### Running the site
 
     $ bundle install # Updates your ruby dependencies
-    $ jekyll serve --watch
+    $ bundle exec jekyll serve --watch
 
 Then point your web browser to [http://localhost:4000/](http://localhost:4000/).
